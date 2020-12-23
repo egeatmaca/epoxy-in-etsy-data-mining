@@ -6,3 +6,5 @@ In this project I am doing an end to end statistical analysis using A/B tests, c
  
 All the data in this repository are scraped by me at the end of November 2020.
 Everyone is welcome to fork code or use the data :)
+
+I would also be happy, if you contact me in case you have any advancement suggestions for the analysis.
